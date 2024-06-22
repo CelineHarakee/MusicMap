@@ -6,7 +6,7 @@ During my sophomore year's first semester, my colleague and I collaboratively bu
 ![ScreenRecording2024-05-30at6 48 33PM-ezgif com-video-to-gif-converter](https://github.com/CelineHarakee/MusicMap/assets/126262323/be179462-b28f-412e-a22c-4409e8d92578)
 ![ScreenRecording2024-05-30at7 57 40PM-ezgif com-video-to-gif-converter](https://github.com/CelineHarakee/MusicMap/assets/126262323/f26122ed-5536-47a7-a19e-aa6e53194532)
 
-hi
+
 ### Languages Used:
 - HTML
 - CSS
